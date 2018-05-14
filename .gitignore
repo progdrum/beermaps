@@ -1,0 +1,7 @@
+# *R* stuff
+*.RData
+*.Rhistory
+*.Rproj*
+
+# Temp files
+*~
