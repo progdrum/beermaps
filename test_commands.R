@@ -6,7 +6,7 @@ library(htmltools)
 
 
 base_url <- "http://beermapping.com/webservice/"
-api_key <- "9411a58e72071f9fb2672efae7965145"
+api_key <- ""
 
 # Call the damn API!
 co_breweries <- GET(paste0(base_url, "locstate/", api_key, "/co&s=json"))
